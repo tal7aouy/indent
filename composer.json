@@ -1,0 +1,33 @@
+{
+    "name": "tal7aouy/indent",
+    "description": "Library to detect and convert indentation in strings and files.",
+    "version": "1.0.0",
+    "bin": [
+        "indent"
+    ],
+    "keywords": [
+        "indentation",
+        "indent",
+        "deindent",
+        "tabs",
+        "spaces",
+        "strings",
+        "files"
+    ],
+    "homepage": "https://github.com/tal7aouy/indent",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M'hammed Talhaouy",
+            "email": "tal7aouy@gmail.com",
+            "role": "PHP Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tal7aouy/indent/issues",
+        "source": "https://github.com/tal7aouy/indent"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
